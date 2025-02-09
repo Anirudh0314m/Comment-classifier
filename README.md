@@ -1,4 +1,4 @@
-# Detection of Plastic in Marine Bodies
+# Comment Classifier
 
 ## Overview
 Online platforms often struggle with toxic and harmful comments, which can negatively impact user experience. This project aims to classify comments as toxic or non-toxic using Natural Language Processing (NLP) techniques and machine learning models.
